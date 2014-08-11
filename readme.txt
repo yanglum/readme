@@ -1,1 +1,1 @@
-don't waste inkgit init
+don't waste ink; print in B&W
